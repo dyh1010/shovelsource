@@ -1,0 +1,73 @@
+# Reproducible build output and local IDE state (originals remain in Releases)
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.lnp
+*.dep
+*.pbi
+*.pbd
+*.out
+*.uvguix.*
+*.ewt
+*.dnx
+*.bak
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+__pycache__/
+# Tool installers, vendor compressed packages and videos are Release assets
+*.exe
+*.EXE
+*.msi
+*.pack
+*.zip
+*.7z
+*.rar
+*.mp4
+*.avi
+*.wmv
+# This is a file snapshot, not an initialized upstream submodule checkout
+.gitmodules
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/1-1 运动学分析基础知识.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/2-1两轮差速模型分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/2-2两轮差速源码讲解.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/2-3两差速运动分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/3-1a四轮差速模型分析一.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/3-1b四轮差速模型分析二.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/3-2四轮差速源码讲解.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/3-3四轮差速运动分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/4-1a麦克纳姆轮运动模型分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/4-1b麦克纳姆轮运动模型分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/4-1c麦克纳姆轮运动模型分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/4-2麦克纳姆轮源码讲解.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/4-3麦克纳姆轮运动分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/5-1三轮全向运动学分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/5-2三轮全向源码讲解.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/5-3三轮全向运动分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/6-1阿克曼模型分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/6-2阿克曼源码讲解.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/6-3a阿克曼运动分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/6-3b阿克曼运动分析.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/4 运动学模型分析教程/塔克创新 l 运动学分析视频教程(双语字幕)/7-1里程计解算.mp4
+/sources/塔克 l MC520编码器电机资料 V20240810/7 软件及驱动文件/塔克串口示波器/Iocomp ActiveX 402SP1.rar
+/sources/塔克 l MC520编码器电机资料 V20240810/7 软件及驱动文件/MDK5/Keil.STM32F1xx_DFP.2.2.0.pack
+/sources/塔克 l MC520编码器电机资料 V20240810/7 软件及驱动文件/MDK5/Keil.STM32F4xx_DFP.2.16.0.pack
+/sources/塔克 l MC520编码器电机资料 V20240810/7 软件及驱动文件/MDK5/MDK536.EXE
+/sources/塔克 l MC520编码器电机资料 V20240810/8 电机零件3D模型文件/65橡胶轮胎.STEP
+/sources/塔克 l MC520编码器电机资料 V20240810/8 电机零件3D模型文件/TK-TB6612-MD220A 两路电机驱动3D模型文件.STEP
+/sources/塔克 l MC520编码器电机资料 V20240810/8 电机零件3D模型文件/TK-TB6612-MD240A 四路电机驱动3D模型文件.STEP
+/sources/塔克创新 l TB6612两路编码器电机驱动模块资料 V1.0/8.3D模型文件/TK-TB6612-MD220A 3D模型文件.STEP
+/sources/OpenART mini资料/OpenART mini示例/V3.X.X固件示例.7z
+/sources/OpenART mini资料/OpenART mini示例/V4.0.0固件示例.7z
+/sources/OpenART mini资料/openmv-ide-windows-2.9.7.exe
+/sources/RT1064_Library-master/【文档】说明书 芯片手册等/核心板文档/NXP官方文档/参考手册/IMXRT1064RM.pdf

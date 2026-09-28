@@ -1,0 +1,10 @@
+# Preserve vendor source bytes; documentation added here uses LF.
+* -text
+/README.md text eol=lf
+/docs/*.md text eol=lf
+/.gitignore text eol=lf
+/.gitattributes text eol=lf
+*.pdf binary
+*.png binary
+*.jpg binary
+*.xlsx binary
