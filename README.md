@@ -4,14 +4,14 @@
 
 ## 硬件分支
 
-| 模块 | 分支 | 目标硬件 / 配置 |
+| 模块 | 目标硬件 / 配置 |
 | --- | --- | --- |
-| [MC520 电机](https://github.com/dyh1010/shovelsource/tree/codex/mc520) | `codex/mc520` | 13 线霍尔编码器，减速比 30 |
-| [TB6612 双路电机驱动模块（稳压）](https://github.com/dyh1010/shovelsource/tree/codex/tb6612) | `codex/tb6612` | 带稳压的双路电机驱动模块 |
-| [RT1064 最小系统板](https://github.com/dyh1010/shovelsource/tree/codex/rt1064-coreboard) | `codex/rt1064-coreboard` | RT1064 核心板 / 最小系统板 |
-| [RT1064 主板](https://github.com/dyh1010/shovelsource/tree/codex/rt1064-motherboard) | `codex/rt1064-motherboard` | RT1064 扩展主板 V3.0 |
-| [0.96 寸 7 管脚显示屏](https://github.com/dyh1010/shovelsource/tree/codex/oled-096-7pin) | `codex/oled-096-7pin` | 0.96 寸 管脚 |
-| [OpenART 视觉图传](https://github.com/dyh1010/shovelsource/tree/codex/openart-vision) | `codex/openart-vision` | OpenART mini 视觉与图传 |
+| [MC520 电机](https://github.com/dyh1010/shovelsource/tree/codex/mc520) | 13 线霍尔编码器，减速比 30 |
+| [TB6612 双路电机驱动模块（稳压）](https://github.com/dyh1010/shovelsource/tree/codex/tb6612) | 带稳压的双路电机驱动模块 |
+| [RT1064 最小系统板](https://github.com/dyh1010/shovelsource/tree/codex/rt1064-coreboard) | RT1064 核心板 / 最小系统板 |
+| [RT1064 主板](https://github.com/dyh1010/shovelsource/tree/codex/rt1064-motherboard) | RT1064 扩展主板 V3.0 |
+| [0.96 寸 7 管脚显示屏](https://github.com/dyh1010/shovelsource/tree/codex/oled-096-7pin) | 0.96 寸 管脚 |
+| [OpenART 视觉图传](https://github.com/dyh1010/shovelsource/tree/codex/openart-vision) | OpenART mini 视觉与图传 |
 
 [完整资料下载](https://github.com/dyh1010/shovelsource/releases/tag/source-snapshot-2026-09-28) · [文件索引](https://github.com/dyh1010/shovelsource/releases/download/source-snapshot-2026-09-28/source-manifest.csv) · [SHA-256 校验清单](https://github.com/dyh1010/shovelsource/releases/download/source-snapshot-2026-09-28/SHA256SUMS.txt)
 
