@@ -13,5 +13,6 @@
 | [0.96 寸 7 管脚显示屏](https://github.com/dyh1010/shovelsource/tree/codex/oled-096-7pin) | `codex/oled-096-7pin` | 0.96 寸 管脚 |
 | [OpenART 视觉图传](https://github.com/dyh1010/shovelsource/tree/codex/openart-vision) | `codex/openart-vision` | OpenART mini 视觉与图传 |
 
+[完整资料下载](https://github.com/dyh1010/shovelsource/releases/tag/source-snapshot-2026-09-28) · [文件索引](https://github.com/dyh1010/shovelsource/releases/download/source-snapshot-2026-09-28/source-manifest.csv) · [SHA-256 校验清单](https://github.com/dyh1010/shovelsource/releases/download/source-snapshot-2026-09-28/SHA256SUMS.txt)
 
-
+RT1064 完整资料需同时下载对应板卡包与 `rt1064-common` 包。
