@@ -18,10 +18,10 @@
 
 ## 获取与开发
 
-`ash
+~~~bash
 git clone --single-branch --branch codex/oled-096-7pin https://github.com/dyh1010/shovelsource.git
 cd shovelsource
 git switch -c dev/oled-096-7pin-bringup
-`
+~~~
 
 先核对实物版本、电源和接口，再使用对应的厂家工程。参见 [维护约定](docs/CONTRIBUTING.md) 与 [原始文件清单](docs/source-manifest.csv)。
