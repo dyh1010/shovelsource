@@ -19,10 +19,10 @@
 
 ## 获取资料
 
-`ash
+~~~bash
 git clone --single-branch --branch codex/mc520 https://github.com/dyh1010/shovelsource.git
 cd shovelsource
-`
+~~~
 
 将分支名替换为上表对应项。私有仓库需先通过 GitHub 账号授权。
 
